@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ActivityApp</string>
+    <string name="title_activity_student_name_edit">student_name_edit</string>
+
+    <string name="list_student_activity_add_button">Add</string>
+    <string name="list_student_activity_edit_button">Edit</string>
+    <string name="list_student_activity_delete_button">Delete</string>
+
+    <string name="edit_student_name_txt_field_at_student_record_acitvity">Enter Name</string>
+    <string name="edit_student_age_txt_field_at_student_record_acitvity">Enter Age</string>
+    <string name="edit_student_marks_txt_field_at_student_record_acitvity">Enter Marks</string>
+    <string name="edit_student_result_txt_field_at_student_record_acitvity">Enter Result</string>
+    <string name="apply_and_show_list_button_at_student_record_activity"> Apply Changes</string>
+    <string name="title_activity_edit">edit</string>
+
+
+</resources>
